@@ -11,8 +11,8 @@ This program uses simple AI search techniques to solve chess checkmate puzzles.
 This project was completed as a course project on `Artificial Intelligence` at `Clarkson University` taught by `Prof. Christopher Lynch`.
 
 ### Project Completed by:
+- Nowreen Ahsan: https://github.com/Ahsan999999
 - Ahmad Suleiman: https://github.com/ahmadfantastic
-- Nowreen Ahsan
 - Katie Bonk
 
 ### Project Documents
